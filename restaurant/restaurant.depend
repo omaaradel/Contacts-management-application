@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1687741082 source:c:\users\oem\onedrive\documents\code blocks\restaurant\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
