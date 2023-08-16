@@ -6,7 +6,7 @@ With this application, users can effortlessly create, update, and delete contact
 
 The Contacts Management Application utilizes C++ to deliver optimal performance and reliability. It leverages modern programming techniques and best practices, ensuring clean and maintainable code that can be easily extended and customized to meet specific requirements.
 
-Key Features:
+##Key Features:
 
 - Create, update, and delete contacts with ease.
 - Search, and filter contacts based on different criteria.
